@@ -1,0 +1,9 @@
+.propertyList {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.propertyList li {
+  list-style-type: none;
+}
